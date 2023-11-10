@@ -1,0 +1,7 @@
+{
+  "name": "ServicesandComponents",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
